@@ -38,3 +38,15 @@ Want to deploy a **powerful bot**? Follow these simple steps:
 📢 **Telegram:** [Join My Group](https://t.me/GovindBotsSupport)  
 ⭐ **GitHub:** [Follow Me](https://github.com/GOVIND-BOTS)  
 💬 **Let's build something crazy together!** 😎🔥
+
+
+
+  <h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=700&lines=🍎+Hey%2C+I'm+Govind!;💻+Full-Stack+Bot+Developer;🎧+Creator+of+AppleMusic+%26+AI+Projects;⚡+Crafting+Automation+that+Feels+Alive;🔥+Dream%3A+Make+Bots+Rule+the+Future;❤️+Code+.+Create+.+Conquer">
+</h2>
+
+<h3 align="center">
+  <a href="https://github.com/GOVIND-BOTS">
+    <img src="https://img.shields.io/badge/💥_Visit_My_World_-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=ff003c">
+  </a>
+</h3>
