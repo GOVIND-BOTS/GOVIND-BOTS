@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                 GOVIND SURYAVANSHI                       -->
+<!--                 GOVIND OFFICIAL MP                      -->
 <!--             PREMIUM GITHUB PROFILE README                -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -33,7 +33,7 @@
 
 <img align="right" width="155" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-397c-4a68-bb59-31ca9f7b9495.gif" alt="Developer animation"/>
 
-Hey there! I'm **Govind Suryavanshi** 👋
+Hey there! I'm **GOVIND OFFICIAL MP** 👋
 
 I'm passionate about building digital experiences, powerful Telegram bots, automation tools, and creative AI-powered projects.
 
